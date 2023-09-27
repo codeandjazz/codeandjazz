@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[!Header](./aquilonino_a_cute_isometric_perspective_3D_mini_diorama_of_a_ho_94a182f2-57a0-4f79-8994-26cbca0371ee_upscayl_4x_realesrgan-x4plus-anime.jpg)
+
+![aquilonino_a_cute_isometric_perspective_3D_mini_diorama_of_a_ho_94a182f2-57a0-4f79-8994-26cbca0371ee_upscayl_4x_realesrgan-x4plus-anime](https://github.com/codeandjazz/codeandjazz/assets/122440476/0008aa6c-8c5c-4450-9336-cc6a81be57b5)
 
 <!--
 **codeandjazz/codeandjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
