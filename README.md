@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!Header](./codeandjazz/aquilonino_a_cute_isometric_perspective_3D_mini_diorama_of_a_ho_94a182f2-57a0-4f79-8994-26cbca0371ee_upscayl_4x_realesrgan-x4plus-anime.jpg)
+[!Header](./aquilonino_a_cute_isometric_perspective_3D_mini_diorama_of_a_ho_94a182f2-57a0-4f79-8994-26cbca0371ee_upscayl_4x_realesrgan-x4plus-anime.jpg)
 
 <!--
 **codeandjazz/codeandjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
